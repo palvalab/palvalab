@@ -28,7 +28,7 @@
   <li> 
     <a href="https://github.com/palvalab/Resting_State_CFC">Resting-state CFC</a> [5] 
     <ul>
-      <li>Brief description to appear here</li>
+      <li>Python code for the analysis of resting-state cross-frequency coupling</li>
     </ul>    
   </li>
 </ul>
