@@ -1,3 +1,5 @@
+Please send any questions about the sources codes directly to the maintainers of specific repositories, by opening an issue in the specific repository you are interested in.
+
 ## Repositories
 
 <ul>
