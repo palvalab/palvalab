@@ -1,4 +1,4 @@
-Please send any questions about the sources codes directly to the maintainers of specific repositories, by opening an <a href="https://help.github.com/en/articles/about-issues">issue</a> in the specific repository you are interested in.
+Please send any questions about the sources codes directly to the maintainers of specific repositories by opening an <a href="https://help.github.com/en/articles/about-issues">issue</a> in the specific repository you are interested in.
 
 ## Repositories
 
