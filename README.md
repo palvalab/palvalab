@@ -9,6 +9,6 @@
 ## External sites
 
 <ul>
-  <li> <a href="http://criticaloscillations.org">http://criticaloscillations.org/</a> (group main page) </li>
-  <li> <a href="https://twitter.com/palvalab?lang=en">https://twitter.com/palvalab</a> (group Twitter account) </li>
+  <li> <a href="http://criticaloscillations.org">criticaloscillations.org</a> (group main page) </li>
+  <li> <a href="https://twitter.com/palvalab?lang=en">twitter.com/palvalab</a> (group Twitter account) </li>
 </ul>
