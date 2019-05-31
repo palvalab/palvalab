@@ -7,10 +7,30 @@
       <li>Brief description to appear here</li>
     </ul>
   </li>
-  <li> <a href="https://github.com/palvalab/hyperedges">Hyperedges</a> [1, 2] </li>
-  <li> <a href="https://github.com/puolival/multipy">MultiPy: Multiple hypothesis testing in Python</a> [3] </li>
-  <li> <a href="https://github.com/nitinwilliams/eeg_meg_analysis/tree/master/phaseTE">Phase-TE</a> [4] </li>
-  <li> <a href="https://github.com/palvalab/Resting_State_CFC">Resting-state CFC</a> [5] </li>
+  <li> 
+    <a href="https://github.com/palvalab/hyperedges">Hyperedges</a> [1, 2] 
+    <ul>
+      <li>Brief description to appear here</li>
+    </ul>    
+  </li>
+  <li> 
+    <a href="https://github.com/puolival/multipy">MultiPy: Multiple hypothesis testing in Python</a> [3] 
+    <ul>
+      <li>Python software for multiple hypothesis testing</li>
+    </ul>    
+  </li>
+  <li> 
+    <a href="https://github.com/nitinwilliams/eeg_meg_analysis/tree/master/phaseTE">Phase-TE</a> [4] 
+    <ul>
+      <li>MATLAB code to measure pairwise directed connectivity between phase time-series</li>
+    </ul>
+  </li>
+  <li> 
+    <a href="https://github.com/palvalab/Resting_State_CFC">Resting-state CFC</a> [5] 
+    <ul>
+      <li>Brief description to appear here</li>
+    </ul>    
+  </li>
 </ul>
 
 ## References
