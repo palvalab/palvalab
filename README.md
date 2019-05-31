@@ -10,7 +10,7 @@
   <li> 
     <a href="https://github.com/palvalab/hyperedges">Hyperedges</a> [1, 2] 
     <ul>
-      <li>Brief description to appear here</li>
+      <li>State-of-art correction for spurious correlations in MEG connectivity data</li>
     </ul>    
   </li>
   <li> 
