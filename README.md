@@ -2,9 +2,9 @@
 
 <ul>
   <li> <a href="https://github.com/sanrou/fidelityWeighting">Fidelity-weighting</a> </li>
-  <li> <a href="https://github.com/palvalab/Resting_State_CFC">Resting-state CFC</a> </li>
+  <li> <a href="https://github.com/palvalab/Resting_State_CFC">Resting-state CFC</a> [1] </li>
   <li> <a href="https://github.com/puolival/multipy">MultiPy: Multiple hypothesis testing in Python</a> </li>
-  <li> <a href="https://github.com/palvalab/hyperedges">Hyperedges</a> [1, 2] </li>
+  <li> <a href="https://github.com/palvalab/hyperedges">Hyperedges</a> [2, 3] </li>
 </ul>
 
 ## References
