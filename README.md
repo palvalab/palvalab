@@ -4,7 +4,7 @@
   <li> 
     <a href="https://github.com/sanrou/fidelityWeighting">Fidelity-weighting</a>
     <ul>
-      <li>Brief description to appear here</li>
+      <li>Improve inverse operators used with parcellations</li>
     </ul>
   </li>
   <li> 
