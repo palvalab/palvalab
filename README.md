@@ -42,7 +42,7 @@ Please send any questions about the source codes directly to the maintainers of 
   <li> 
     <a href="https://github.com/mnarizzano/SEEGA">SEEG assistant</a> [7, 8]
     <ul>
-      <li>Set of open-source tools for post-implant processing of SEEG data</li>
+      <li>Set of tools for post-implant processing of SEEG data including 3DSlicer plugins.</li>
     </ul>
   </li>
   <li> 
